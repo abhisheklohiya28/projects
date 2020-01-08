@@ -1,4 +1,4 @@
 # projects
-__projects done using ML
-__projects done using Stats
-__projects done using Auto ML
+__ projects done using ML
+__ projects done using Stats
+__ projects done using Auto ML
