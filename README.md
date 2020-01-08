@@ -5,7 +5,6 @@
 
 ___
 
-'''
-print('Hello World')
-
-'''
+```python
+for i in range(10)
+	print(i)
